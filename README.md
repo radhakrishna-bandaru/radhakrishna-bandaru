@@ -62,52 +62,51 @@
 </p>
 
 ---
-
 ## 🚀 Featured Projects
 
-### 📝 Online Examination System
+### 💼 Personal Portfolio
+A responsive personal portfolio website showcasing my skills, projects, experience, certifications, and achievements.
 
-A responsive online examination platform built using **React.js and JavaScript**.
+**Tech:** HTML5 • CSS3 • JavaScript
 
-**Highlights:**
-- 🔐 User authentication
-- 📝 Interactive examination module
-- 🧭 React Router navigation
-- 💾 LocalStorage-based persistence
-- 📱 Responsive interface
-
-🔗 **[View Repository](https://github.com/radhakrishna-bandaru/Online-examination-system)**
+🔗 [View Repository](https://github.com/radhakrishna-bandaru/Portfolio-BRK)  
+🌐 [Live Demo](https://portfolio-brk.vercel.app)
 
 ---
 
 ### 💳 Credit Card Approval Prediction
+A Machine Learning web application that predicts whether a credit card application is likely to be approved based on customer information.
 
-A **Machine Learning web application** that predicts whether a credit card application is likely to be approved.
+**Tech:** Python • Flask • Scikit-learn • Pandas • NumPy
 
-**Built with:**
-- 🐍 Python
-- 🌶️ Flask
-- 🤖 Scikit-learn
-- 🐼 Pandas
-- 🔢 NumPy
-- 🎨 HTML & CSS
-
-🔗 **[View Repository](https://github.com/radhakrishna-bandaru/Credit-card-approval-prediction)**
+🔗 [View Repository](https://github.com/radhakrishna-bandaru/Credit-card-approval-prediction)
 
 ---
 
-### 🌐 Personal Portfolio
+### 📝 Online Examination System
+A responsive online examination platform with user authentication and an interactive examination experience.
 
-A responsive personal portfolio website showcasing my skills, projects and achievements.
+**Tech:** React.js • JavaScript • CSS • Vite
 
-**Built with:**
-- HTML5
-- CSS3
-- JavaScript
-
-🔗 **[View Repository](https://github.com/radhakrishna-bandaru/Portfolio-BRK)**
+🔗 [View Repository](https://github.com/radhakrishna-bandaru/Online-examination-system)
 
 ---
+
+### 📅 Event Booking
+A web application designed for managing and booking events through an interactive interface.
+
+**Tech:** JavaScript • HTML • CSS
+
+🔗 [View Repository](https://github.com/radhakrishna-bandaru/eventbooking)
+
+---
+
+### 🤝 SkillConnect24
+A web-based project focused on connecting users and providing an interactive platform for skill-related activities.
+
+**Tech:** TypeScript • React
+
+🔗 [View Repository](https://github.com/radhakrishna-bandaru/skillconnect24)
 
 ## 🤝 Let's Connect
 
