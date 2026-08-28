@@ -10,7 +10,7 @@
 
 ---
 
-## 👋 Hi, I'm Radha Krishna
+## 👋 Hi, I'm Bandaru Radha Krishna
 
 🎓 **CSE(AI&ML) Student**  
 💻 **Aspiring Software Developer**  
@@ -106,38 +106,6 @@ A responsive personal portfolio website showcasing my skills, projects and achie
 - JavaScript
 
 🔗 **[View Repository](https://github.com/radhakrishna-bandaru/Portfolio-BRK)**
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=radhakrishna-bandaru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhakrishna-bandaru&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=radhakrishna-bandaru&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=radhakrishna-bandaru&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
 
 ---
 
