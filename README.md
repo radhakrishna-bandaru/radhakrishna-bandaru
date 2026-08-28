@@ -1,4 +1,4 @@
-<!-- ===================== HEADER ===================== -->
+
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 ## 👋 Hi, I'm Radha Krishna
 
-🎓 **Computer Science & Engineering (AI/ML) Student**  
+🎓 **CSE(AI&ML) Student**  
 💻 **Aspiring Software Developer**  
 🤖 **Interested in AI/ML & Web Development**  
 🚀 **Learning by Building Real-World Projects**
