@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Radha Krishna 👋
 
-<!--
-**radhakrishna-bandaru/radhakrishna-bandaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Aspiring Software Developer  
+🚀 Learning by Building Real-World Projects
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning programming and software development
+- 💡 Interested in Web Development, AI/ML and emerging technologies
+- 🔨 Working on projects to improve my practical skills
+- 🎯 Goal: Become a skilled software developer
+
+## 🛠️ Skills
+
+- Programming: Python, Java
+- Web: HTML, CSS, JavaScript
+- Database: MySQL
+- Tools: Git, GitHub, VS Code
+
+## 📌 Projects
+
+Coming soon...
+
+## 📫 Connect With Me
+
+- GitHub: @radhakrishna-bandaru
