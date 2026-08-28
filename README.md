@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:7F5AF0,100:00D9FF&height=180&section=header&text=Radha%20Krishna&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Computer+Science+%22+Engineering+(AI&ML)+Student;Aspiring+Software+Developer;AI%2FML+Enthusiast;Web+Developer;Building+Real-World+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=;CSE(AI%2FML)+Student+%7C;Aspiring+Software+Developer;AI%2FML+Enthusiast;Web+Developer;Building+Real-World+Projects" />
 
 </div>
 
